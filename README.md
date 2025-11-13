@@ -266,5 +266,3 @@ Fatih Ulucan
 
 
 
-Relational Database Design (RBD) — Semester Final Project (Polish-Japanese Academy of Information Technology - Warsaw, 2025)
-
