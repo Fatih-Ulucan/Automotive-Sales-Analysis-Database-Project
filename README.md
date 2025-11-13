@@ -2,7 +2,7 @@
 
 📘 Overview
 
-This project was developed as the final project for the Relational Database Design (RBD) course.
+This project  represents an  Automotive Sales Analysis  designed and implemented using ORACLE SQL.
 
 
 
@@ -263,6 +263,7 @@ README.md — This documentation
 👨‍🎓 Author \& attribution
 
 Fatih Ulucan
+
 
 
 
